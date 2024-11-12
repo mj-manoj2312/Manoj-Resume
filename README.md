@@ -1,2 +1,3 @@
 # Manoj-Resume
-this is simple html and CSS project for practice 
+This is my resume 
+i used this repo to read and partice html css from udemy course
